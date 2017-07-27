@@ -13,3 +13,7 @@ $ npm install
 ```
 $ npm run start
 ```
+
+## Output
+
+Open a browser console to view the output.

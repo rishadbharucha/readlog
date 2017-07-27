@@ -1,0 +1,15 @@
+{
+  "name": "readlog",
+  "version": "1.0.0",
+  "description": "Read a web log and parse the data.",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishad Bharucha",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
